@@ -1,0 +1,3 @@
+report:
+Safari on iphone 3G: Working perfectly, the css for mobile device is loaded as expected.
+Chrome on HTC Incredible: Working.
